@@ -3,8 +3,8 @@ title: "Covid 19 Analysis"
 author: "Megan Arnold"
 date: "`r Sys.Date()`"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ```{r Install of Packages, include= FALSE, message = FALSE}
@@ -20,7 +20,7 @@ output:
 
 # Load Libraries
 
-```{r setup, include=TRUE}
+```{r setup, include=FALSE}
 library(tidyverse)
 library(ggplot2)
 library(lubridate)
