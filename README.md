@@ -4,7 +4,8 @@
 
 1) Clone repository of local drive
 2) Ensure tidyverse, ggplot2, and lubridate packages are installed
-3) Knit document to either HTML or PDF
+3) Open the .Rmd file
+4) Knit document to either HTML or PDF
 
 ## Purpose
 
